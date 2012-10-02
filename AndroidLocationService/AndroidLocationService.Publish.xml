@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://luckysevencorp.com" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Perfil1" publishMethod="FTP" replaceMatchingFiles="True" userName="luck0152" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/AndroidLocationService.dll" publishTime="10/02/2012 17:50:41" />
+    <file relUrl="LocationService.svc" publishTime="10/01/2012 11:46:03" />
+    <file relUrl="bin/AndroidLocationService.pdb" publishTime="10/02/2012 17:50:40" />
+    <file relUrl="Web.config" publishTime="10/02/2012 17:51:29" />
+  </publishProfile>
+</publishData>
